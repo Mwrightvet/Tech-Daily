@@ -16,17 +16,18 @@ A CMS-style blog site similar to a Wordpress site, where developers can publish 
 
 ## Installation
 
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Install dependencies using `npm install`.
-   ### express
-   ### express-handlebars
-   ### mysql2
-   ### sequelize 
-   ### dotenv 
-   ### bcrypt
-   ### express-session
-   ### connect-session-sequelize
+- Clone the repository.
+- Navigate to the project directory.
+- Install dependencies using `npm install`:
+
+  - express
+  - express-handlebars
+  - mysql2
+  - sequelize 
+  - dotenv 
+  - bcrypt
+  - express-session
+  - connect-session-sequelize
 
    
 ## Usage
