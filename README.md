@@ -37,7 +37,6 @@ A CMS-style blog site similar to a Wordpress site, where developers can publish 
 
 ## License
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository.svg)](https://github.com/yourusername/yourrepository/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright (c) [2024] [MWright]
